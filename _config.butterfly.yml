@@ -639,7 +639,7 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://cdn.jsdelivr.net/gh/Tan031105/Tan-Pichost@main/202407232321065.png)
+background: url(https://cdn.jsdelivr.net/gh/Tan031105/Tan-Pichost@main/55980759_p0.jpg)
 
 # Footer Background
 footer_bg: false
@@ -911,7 +911,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
-    - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    - <link rel="stylesheet" href="/css/custom.css">
   bottom:
  
 
