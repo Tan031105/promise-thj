@@ -4,12 +4,15 @@
 
 # Site
 title: Promise_THJ
-subtitle: ''
+subtitle: 'The Remains of the Days'
 description: ''
 keywords:
 author: Promise
-language: zh
+language: zh-CN
 timezone: ''
+email: tanhaojun031105@gmail.com
+
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -96,7 +99,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: tranquility
+theme: butterfly
+
 
 
 # Deployment
