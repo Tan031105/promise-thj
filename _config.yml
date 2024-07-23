@@ -4,8 +4,8 @@
 
 # Site
 title: Promise_THJ
-subtitle: 'The Remains of the Days'
-description: ''
+subtitle: ''
+description: '一名普通的SMU学生'
 keywords:
 author: Promise
 language: zh-CN
@@ -16,7 +16,7 @@ email: tanhaojun031105@gmail.com
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://promise-thj.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
