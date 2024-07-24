@@ -13,11 +13,11 @@ menu:
    Archives: /archives/ || 
    Tags: /tags/ || 
    Categories: /categories/ || 
-   List||fas fa-list:
+   List:
      Music: /music/ || 
      Movie: /movies/ ||
      Animation: /animations/ ||
-   Work: /works/ ||
+   Works: /works/ ||
    Friends: /link/ || 
    About: /about/ || 
 
