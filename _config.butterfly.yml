@@ -13,10 +13,10 @@ menu:
    Archives: /archives/ || 
    Tags: /tags/ || 
    Categories: /categories/ || 
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
-   Link: /link/ || 
+   List||fas fa-list:
+     Music: /music/ || 
+     Movie: /movies/ || 
+   Friends: /link/ || 
    About: /about/ || 
 
 # Code Blocks (代碼相關)
