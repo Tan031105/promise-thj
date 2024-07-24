@@ -639,10 +639,10 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: #rgb(189, 217, 241)
+background: url(https://cdn.jsdelivr.net/gh/Tan031105/Tan-Pichost@main/50_AIScaled_resized.jpg)
 
 # Footer Background
-footer_bg: true
+footer_bg: false
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
@@ -729,7 +729,7 @@ beautify:
 font:
   global-font-size: 16px
   code-font-size:
-  font-family: SiyuanSong , 'SiyuanHei' , "Playfair Display";
+  font-family: SiyuanSong  , "Playfair Display";
   code-font-family:
 #SiyuanSong,var(--global-font), Consolas_1, -apple-system, 'Quicksand', 'Nimbus Roman No9 L', 'PingFang SC', 'Hiragino Sans GB', 'Noto Serif SC', 'Microsoft Yahei', 'WenQuanYi Micro Hei', 'ST Heiti', sans-serif,"Playfair Display", serif;
 # Font settings for the site title and site subtitle
