@@ -15,7 +15,9 @@ menu:
    Categories: /categories/ || 
    List||fas fa-list:
      Music: /music/ || 
-     Movie: /movies/ || 
+     Movie: /movies/ ||
+     Animation: /animations/ ||
+   Work: /works/ ||
    Friends: /link/ || 
    About: /about/ || 
 
