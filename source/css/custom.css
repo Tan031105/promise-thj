@@ -133,3 +133,30 @@
     background-color: #3eb8be;
     border-radius: 8px;
   }
+
+  /* 自定义字体*/
+  
+@font-face {
+  /* 为载入的字体取名字(随意) */
+  font-family: 'SiyuanSong';	
+  /* 字体文件地址(相对或者绝对路径都可以) */
+  src: url(/fonts/SourceHanSerifCN-SemiBold.otf);
+  /* 定义加粗样式(加粗多少) */
+  font-weight: Medium;
+  /* 定义字体样式(斜体/非斜体) */
+  font-style: normal;
+  /* 定义显示样式 */
+  font-display: block;
+}
+@font-face {
+  /* 为载入的字体取名字(随意) */
+  font-family: 'SiyuanHei';	
+  /* 字体文件地址(相对或者绝对路径都可以) */
+  src: url(/fonts/SourceHanSansCN-Regular.otf);
+  /* 定义加粗样式(加粗多少) */
+  font-weight: normal;
+  /* 定义字体样式(斜体/非斜体) */
+  font-style: normal;
+  /* 定义显示样式 */
+  font-display: block;
+}
