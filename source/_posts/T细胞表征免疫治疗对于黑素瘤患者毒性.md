@@ -3,6 +3,8 @@ title: T细胞表征免疫治疗对于黑素瘤患者毒性
 date: 2024-07-24 01:58:58
 tags: ['科研','生信','医学']
 categories: ['学习笔记']
+cover : https://cdn.jsdelivr.net/gh/Tan031105/Tan-Pichost@main/202407240157284.png
+top_img : false
 ---
 # T cell characteristics associated with toxicity to immune checkpoint blockade in patients with melanoma
 
