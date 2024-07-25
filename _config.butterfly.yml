@@ -731,14 +731,14 @@ beautify:
 font:
   global-font-size: 16px
   code-font-size:
-  font-family: SiyuanSong  , "Playfair Display";
-  code-font-family:
+  font-family: Noto Serif SC
+  code-font-family:  
 #SiyuanSong,var(--global-font), Consolas_1, -apple-system, 'Quicksand', 'Nimbus Roman No9 L', 'PingFang SC', 'Hiragino Sans GB', 'Noto Serif SC', 'Microsoft Yahei', 'WenQuanYi Micro Hei', 'ST Heiti', sans-serif,"Playfair Display", serif;
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
 blog_title_font:
-  font_link: https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap
-  font-family: Playfair Display
+  font_link: https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Serif+SC:wght@900&display=swap
+  font-family: Noto Serif SC
 
 
 # The setting of divider icon (水平分隔線圖標設置)
