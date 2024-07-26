@@ -43,11 +43,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://cdn.jsdelivr.net/gh/Tan031105/Tan-Pichost@main/202407232319824.png
+favicon: https://promise-thj.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%B5%84%E6%BA%90/1721747953995.jpg
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/Tan031105/Tan-Pichost@main/202407232319824.png
+  img: https://promise-thj.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%B5%84%E6%BA%90/1721747953995.jpg
   effect: false
 
 # Disable all banner image
