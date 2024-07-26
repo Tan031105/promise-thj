@@ -43,11 +43,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://promise-thj.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%B5%84%E6%BA%90/1721747953995.jpg
+favicon: https://promise-thj1.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/%E7%BD%91%E9%A1%B5%E8%B5%84%E6%BA%90/1721747953995.jpg
 
 # Avatar (頭像)
 avatar:
-  img: https://promise-thj.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%B5%84%E6%BA%90/1721747953995.jpg
+  img: https://promise-thj1.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/%E7%BD%91%E9%A1%B5%E8%B5%84%E6%BA%90/1721747953995.jpg
   effect: false
 
 # Disable all banner image
@@ -57,7 +57,7 @@ disable_top_img: false
 index_img: 
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://promise-thj.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%B5%84%E6%BA%90/BG.jpg
+default_top_img: https://promise-thj1.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/%E7%BD%91%E9%A1%B5%E8%B5%84%E6%BA%90/BG.jpg
 
 # The banner image of archive page
 archive_img: false 
