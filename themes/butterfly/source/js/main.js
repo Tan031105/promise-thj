@@ -301,7 +301,7 @@ document.addEventListener('DOMContentLoaded', function () {
     ig.on('renderComplete', completeFn)
 
     if (isButton) {
-      appendItem(1)
+      appendItem(1,3)
     } else {
       ig.on('requestAppend', requestAppendFn)
       ig.renderItems()
