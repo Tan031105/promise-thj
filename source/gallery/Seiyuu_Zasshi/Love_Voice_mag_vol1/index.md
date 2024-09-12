@@ -3,7 +3,7 @@ title: Love Voice mag. Vol.1
 date: 2024-09-12 00:00:00
 type: "gallery"
 ---
-{% gallery  ,true,300,5 %}
+{% gallery  ,true,500,1 %}
 ![](https://promise-thj1.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/%E5%A3%B0%E4%BC%98%E6%9D%82%E5%BF%97/Love%20Voice%20mag.%20Vol.1/Love%20Voice%20mag.%20Vol.1/00001.png)
 ![](https://promise-thj1.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/%E5%A3%B0%E4%BC%98%E6%9D%82%E5%BF%97/Love%20Voice%20mag.%20Vol.1/Love%20Voice%20mag.%20Vol.1/00002.png)
 ![](https://promise-thj1.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/%E5%A3%B0%E4%BC%98%E6%9D%82%E5%BF%97/Love%20Voice%20mag.%20Vol.1/Love%20Voice%20mag.%20Vol.1/00003.png)
