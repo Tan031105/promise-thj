@@ -290,7 +290,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const requestAppendFn = btf.debounce(e => {
       const nextGroupKey = (+e.groupKey || 0) + 1
-      appendItem(nextGroupKey, 4)
+      appendItem(nextGroupKey, 3)
 
       if (nextGroupKey === maxGroupKey) {
         ig.off('requestAppend', requestAppendFn)
