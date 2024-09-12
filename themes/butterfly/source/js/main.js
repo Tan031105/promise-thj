@@ -290,18 +290,18 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const requestAppendFn = btf.debounce(e => {
       const nextGroupKey = (+e.groupKey || 0) + 1
-      appendItem(nextGroupKey, 10)
+      appendItem(nextGroupKey, 4)
 
       if (nextGroupKey === maxGroupKey) {
         ig.off('requestAppend', requestAppendFn)
       }
-    }, 300)
+    }, 400)
 
     btf.setLoading.add(item)
     ig.on('renderComplete', completeFn)
 
     if (isButton) {
-      appendItem(1, 10)
+      appendItem(1)
     } else {
       ig.on('requestAppend', requestAppendFn)
       ig.renderItems()
