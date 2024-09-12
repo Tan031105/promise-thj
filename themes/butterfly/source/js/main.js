@@ -255,7 +255,7 @@ document.addEventListener('DOMContentLoaded', function () {
         e.target.removeEventListener('click', buttonFn)
         e.target.remove()
         btf.setLoading.add(item)
-        appendItem(ig.getGroups().length + 1, 10)
+        appendItem(ig.getGroups().length + 1, 3)
       }
 
       button.addEventListener('click', buttonFn)
@@ -266,7 +266,7 @@ document.addEventListener('DOMContentLoaded', function () {
       ig.append(getItems(nextGroupKey, count), nextGroupKey)
     }
 
-    const maxGroupKey = Math.ceil(dataLength / 10)
+    const maxGroupKey = Math.ceil(dataLength / 3)
 
     const completeFn = e => {
       const { updated, isResize, mounted } = e
